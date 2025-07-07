@@ -1,7 +1,7 @@
 name: hello-World
 on: push
 jobs:
-hello-world-jobs:
+hello-world-job:
  runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
